@@ -682,6 +682,9 @@ section { padding: 3rem 2rem; }
     justify-content: center;
     gap: 1rem;
 }
+.trusted-grid > a {
+    display: contents;
+}
 .trusted-card {
     display: flex;
     align-items: center;
